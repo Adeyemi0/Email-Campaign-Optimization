@@ -54,5 +54,57 @@ The chart below shows the relationship between the open rates and the keywords
 
 ![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/relationship.png)
 
+## BASED ON THE PROVIDED KEYWORDS, HERE'S AN ANALYSIS OF THE INSIGHTS
+#### 1. Matches: 
+This suggests that subscribers are interested in finding relevant content or solutions that match their specific needs. Tailor your subject lines and preview text to highlight how your training and content can help subscribers find the right solutions. Emphasize how your training and content can help users find matches, patterns, or insights within their data using Power BI.
+
+#### 2. Hosting: 
+Subscribers may be looking for information on hosting options for Power BI or related services. Create content or offer training modules specifically focused on hosting and deployment in Power BI. Highlight any hosting features or options that are available for Power BI, such as cloud-based hosting or on-premises hosting.
+
+#### 3. News: 
+Subscribers are likely interested in staying up to date with the latest news and updates in the Power BI industry. Recommendation: Include news-related updates in your email subject lines and preview text, such as product releases, feature updates, or industry trends.
+
+#### 4. You'd: 
+This keyword implies a personalized approach, suggesting that subscribers may be more responsive to messages that directly address them. Use personalized subject lines and preview text, addressing subscribers by name or using language that emphasizes a personal connection. Use "You'd" to create a sense of exclusivity: Craft subject lines that start with "You'd" to pique curiosity and make subscribers feel like they have access to valuable information or opportunities.
+
+#### 5. Survey: 
+Subscribers may be interested in providing feedback or participating in surveys related to Power BI or training content. Regularly engage subscribers by including surveys in your emails, asking for their input, and using their feedback to improve your offerings.
+
+#### 6. Filled: 
+This keyword may indicate that subscribers are interested in hands-on activities or practical exercises. Include information about hands-on exercises, practical examples, or interactive elements in your subject lines and preview text to attract engagement. Communicate about filled spots or limited availability: If you have limited seats for your training sessions or exclusive content, create urgency by mentioning that spots are filling up quickly.
+
+#### 7. Notification: 
+Subscribers may be looking for important updates or notifications related to Power BI or your training programs. Use subject lines and preview text to highlight time-sensitive updates or notifications that subscribers need to be aware of.
+
+#### 8. Calculations: 
+This keyword suggests that subscribers have an interest in learning about calculations and formulas within Power BI. Create content or training modules focused on advanced calculations and provide insights on how to leverage them effectively.
+
+#### 9. Parent: 
+This keyword may indicate an interest in understanding parent-child relationships within Power BI or hierarchical data structures. Develop content or training modules that explain and demonstrate how to work with parent-child relationships effectively.
+
+#### 10. Bi/dax: 
+This likely refers to the specific language used in Power BI called DAX (Data Analysis Expressions). Highlight DAX-related content, training resources, or advanced techniques in your subject lines and preview text to attract subscribers with an interest in this area.
+
+#### 11. Subtotal: 
+Subscribers may be interested in learning about subtotaling and aggregation features within Power BI. The business should offer tutorials, tips, or case studies that showcase how to effectively use subtotals and aggregations in Power BI. Discuss how Power BI enables users to generate subtotals and aggregate data, making it easier to analyze and present summarized information.
+
+#### 12. Secure: 
+This keyword implies a concern for data security. The business should emphasize the security measures implemented in your training programs or content, assuring subscribers that their data and information are protected.
+
+#### 13. Measures (mean DAX measures): 
+Subscribers are likely interested in learning about measures and calculations within Power BI, particularly in the context of DAX. The business should focus on creating content or training materials that explore advanced measures and calculations using DAX in Power BI.
+
+#### 14. Row-level: 
+This keyword suggests an interest in row-level security or filtering capabilities in Power BI. The business should create content or training modules specifically addressing row-level security and demonstrate how to implement it effectively in Power BI projects.
+
+## IN ADDITION TO THESE KEYWORD-BASED RECOMMENDATIONS, CONSIDER THE FOLLOWING INSIGHTS:
+1.	Focus on engaging new contacts: Since you have a significant number of recipients with a rating of 2 (1830), it indicates that these are either new contacts or previously engaged contacts who have become dormant. To re-engage these recipients, consider implementing targeted campaigns with compelling content to capture their attention and encourage them to interact with your emails.
+
+2.	Nurture low-engagement recipients: The recipients with a rating of 3 (471) have shown some level of engagement by clicking on links in the campaigns but are not consistently engaged. Develop strategies to nurture these recipients and build stronger connections. Personalize your content, segment your audience based on their interests, and provide incentives to encourage regular interaction.
+
+3.	Maintain engagement of moderate and high engagement recipients: It's encouraging to see that you have recipients with ratings of 4 (565) and 5 (574), indicating moderate and high engagement, respectively. The business needs to continue providing valuable content to these recipients to maintain their interest and encourage their consistent engagement. Also, consider segmenting this group further to deliver more targeted content that aligns with their preferences.
+
+4.	Re-engage recipients with a rating of 1: Recipients with a rating of 1 (248) have either unsubscribed and resubscribed or experienced soft bounces in the past. Implement strategies to win back these recipients. Send personalized re-engagement campaigns, offer exclusive discounts or rewards, and remind them of the value they can receive by staying subscribed.
+
 
 
