@@ -28,6 +28,9 @@ The most common reason why subscribers churn is that they’re no longer interes
 ### Data Pre-processing
 The stop_words variable initializes a set of stopwords and a list of punctuation marks. These will be used for text pre-processing to filter out common and insignificant words from the campaign’s email content. The preprocess_text function is defined to tokenize and preprocess the email content. The function converts the text to lowercase, tokenizes it into individual words, and removes stopwords and punctuation marks. This pre-processing step ensures that the subsequent analysis focuses on meaningful keywords that can influence engagement. The code (campaign_df["email_content"]) merges relevant columns from the campaign dataset to create a consolidated 'email_content' column. This column combines the subject line, and preview text of each email campaign. Creating this consolidated column simplifies the keyword analysis process.
 
+![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/stopwords.png)
+
+### Feature Engineering
+Additionally, two new columns, 'open_rate' and 'click_rate,' are calculated. These metrics measure the percentage of unique opens and unique subscriber clicks, respectively, relative to the number of emails sent for each campaign. These rates provide insights into the engagement levels of different campaigns.
+
 ![]()
-
-
