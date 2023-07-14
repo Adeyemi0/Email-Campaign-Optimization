@@ -33,4 +33,8 @@ The stop_words variable initializes a set of stopwords and a list of punctuation
 ### Feature Engineering
 Additionally, two new columns, 'open_rate' and 'click_rate,' are calculated. These metrics measure the percentage of unique opens and unique subscriber clicks, respectively, relative to the number of emails sent for each campaign. These rates provide insights into the engagement levels of different campaigns.
 
+![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/kpi1.png)
+
+### KEYWORD ANALYSIS
+To analyze the impact of keywords on engagement, the code creates a list called 'all_words' to store all the preprocessed words from the 'email_content' column of the campaign dataset. A Counter object, 'word_counts,' is used to count the occurrences of each word.
 ![]()
