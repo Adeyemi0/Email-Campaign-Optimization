@@ -97,7 +97,7 @@ Subscribers are likely interested in learning about measures and calculations wi
 #### 14. Row-level: 
 This keyword suggests an interest in row-level security or filtering capabilities in Power BI. The business should create content or training modules specifically addressing row-level security and demonstrate how to implement it effectively in Power BI projects.
 
-## IN ADDITION TO THESE KEYWORD-BASED RECOMMENDATIONS, CONSIDER THE FOLLOWING INSIGHTS:
+### IN ADDITION TO THESE KEYWORD-BASED RECOMMENDATIONS, CONSIDER THE FOLLOWING INSIGHTS:
 1.	Focus on engaging new contacts: Since you have a significant number of recipients with a rating of 2 (1830), it indicates that these are either new contacts or previously engaged contacts who have become dormant. To re-engage these recipients, consider implementing targeted campaigns with compelling content to capture their attention and encourage them to interact with your emails.
 
 2.	Nurture low-engagement recipients: The recipients with a rating of 3 (471) have shown some level of engagement by clicking on links in the campaigns but are not consistently engaged. Develop strategies to nurture these recipients and build stronger connections. Personalize your content, segment your audience based on their interests, and provide incentives to encourage regular interaction.
