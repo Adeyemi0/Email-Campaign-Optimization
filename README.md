@@ -37,4 +37,10 @@ Additionally, two new columns, 'open_rate' and 'click_rate,' are calculated. The
 
 ### KEYWORD ANALYSIS
 To analyze the impact of keywords on engagement, the code creates a list called 'all_words' to store all the preprocessed words from the 'email_content' column of the campaign dataset. A Counter object, 'word_counts,' is used to count the occurrences of each word. The most_common_words variable stores the words and their corresponding frequencies in descending order. This information is crucial for identifying the top keywords that have the highest impact on engagement.
+![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/key.png)
+
+The code below iterates through the most_common_words list and calculates the average open rate and click rate for each keyword. It uses boolean indexing with the 'str.contains' method to filter the campaign dataset and extract only the rows that contain the current keyword.
+The keyword_engagement dictionary is populated with each keyword as the key and a dictionary of its open rate and click rate as the value. This data structure allows for easy access to engagement metrics for each keyword.
+
 ![]()
+
