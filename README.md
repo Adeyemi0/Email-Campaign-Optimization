@@ -36,5 +36,5 @@ Additionally, two new columns, 'open_rate' and 'click_rate,' are calculated. The
 ![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/kpi1.png)
 
 ### KEYWORD ANALYSIS
-To analyze the impact of keywords on engagement, the code creates a list called 'all_words' to store all the preprocessed words from the 'email_content' column of the campaign dataset. A Counter object, 'word_counts,' is used to count the occurrences of each word.
+To analyze the impact of keywords on engagement, the code creates a list called 'all_words' to store all the preprocessed words from the 'email_content' column of the campaign dataset. A Counter object, 'word_counts,' is used to count the occurrences of each word. The most_common_words variable stores the words and their corresponding frequencies in descending order. This information is crucial for identifying the top keywords that have the highest impact on engagement.
 ![]()
