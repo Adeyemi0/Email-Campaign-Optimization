@@ -52,7 +52,7 @@ The associated open rates and click rates for these keywords are extracted from 
 
 The chart below shows the relationship between the open rates and the keywords
 
-![]()
+![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/relationship.png)
 
 
 
