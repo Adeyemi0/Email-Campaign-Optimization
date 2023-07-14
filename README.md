@@ -48,6 +48,10 @@ The keyword_engagement dictionary is populated with each keyword as the key and 
 ###  SORTING AND SELECTING TOP KEYWORDS
 The code shown below sorts the keyword_engagement dictionary based on the open rate in descending order. This sorting enables the identification of keywords with the highest open rates.
 The associated open rates and click rates for these keywords are extracted from the keyword_engagement dictionary and stored in the lists 'open_rates' and 'click_rates,' respectively.
+![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/sorted%20keyword.png)
+
+The chart below shows the relationship between the open rates and the keywords
+
 ![]()
 
 
