@@ -14,11 +14,11 @@ They examine subscribers’ click behavior in relation to your sending frequency
 
 As seen in the chart above the majority of the subscribers falls under rating 2 (1830), followed by 5 (574), 4 (565), 3 (471), and 1 (248) respectively.
 
-One(1): This recipient has either unsubscribed and resubscribed, or soft bounced in the past.
-Two (2): This recipient is most likely a new subscriber or a previously engaged contact who's gone dormant.
-Three(3): This recipient clicks some links in your campaigns. They are either inconsistently engaged or they haven't been in your audience long enough to have earned a higher rating.
-Four(4): This recipient often clicks links in your campaigns when you send.
-Five(5): This recipient clicks links in your campaigns very consistently.
+1. One(1): This recipient has either unsubscribed and resubscribed, or soft bounced in the past.
+2. Two (2): This recipient is most likely a new subscriber or a previously engaged contact who's gone dormant.
+3. Three(3): This recipient clicks some links in your campaigns. They are either inconsistently engaged or they haven't been in your audience long enough to have earned a higher rating.
+4. Four(4): This recipient often clicks links in your campaigns when you send.
+5. Five(5): This recipient clicks links in your campaigns very consistently.
 
 The most common reason why subscribers churn is that they’re no longer interested in the content.
 
