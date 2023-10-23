@@ -7,7 +7,7 @@ The desired solution involves leveraging Python and various datasets from MailCh
 Through the implementation of this solution, the marketing team aims to gain insights into the most effective keywords and phrases that drive engagement. They can then apply these findings to improve their email campaigns, resulting in higher open rates, click-through rates, and ultimately, improved customer interaction and business success.
 
 ## FINDINGS
-The business has 3,688 subscribers, most of whom are from the United States, Australia, Canada, and India. The subscriber’s rating distribution. MailChimp rates subscribers’ engagement on a scale of 1 to 16 using this metric they turn the numerical rating into a star rating so that you can quickly see how a contact stacks up against others. Everyone begins with a rating of zero, which is equal to two stars.
+The business has 3,688 subscribers, most of whom are from the United States, Australia, Canada, and India. The chart below shows the subscriber’s rating distribution. MailChimp rates subscribers’ engagement on a scale of 1 to 16 using this metric they turn the numerical rating into a star rating so that you can quickly see how a contact stacks up against others. Everyone begins with a rating of zero, which is equal to two stars.
 They examine subscribers’ click behavior in relation to the business sending frequency to place them on the engagement scale. They update the contact ratings for each campaign you send. To think about this in terms of averages is beneficial. For instance, a contact's rating would be affected more negatively if they don't click a link in a monthly email than if they do so in a weekly email.
 
 ![](https://github.com/Adeyemi0/Email-Campaign-Optimization/blob/main/Images/rating.png)
