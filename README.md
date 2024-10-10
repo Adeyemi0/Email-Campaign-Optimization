@@ -1,3 +1,16 @@
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Company's Goal](#companys-goal)
+3. [Findings](#findings)
+4. [Methodology](#methodology)
+    - [Data Pre-processing](#data-pre-processing)
+    - [Feature Engineering](#feature-engineering)
+    - [Keyword Analysis](#keyword-analysis)
+    - [Calculating Keyword Engagement](#calculating-keyword-engagement)
+    - [Sorting and Selecting Top Keywords](#sorting-and-selecting-top-keywords)
+5. [Keyword Insights and Recommendations](#keyword-insights-and-recommendations)
+6. [Additional Insights](#additional-insights)
+
 ## PROJECT OVERVIEW
 The business sells Power BI training services and utilizes MailChimp for email campaigns and is seeking to enhance its email engagement and overall campaign performance. They aim to optimize email content by analyzing keywords and phrases that correlate with higher engagement and using them strategically in their campaigns. the objective is to improve open rates and click-through rates, leading to increased customer interactions, conversions, and overall business growth. 
 The business needs a systematic process to analyze its email campaign data, including subscriber information, campaign activity, open locations, opens, clicks, bounces, and other relevant metrics. They want to identify the keywords and phrases that positively impact engagement metrics, such as open rates and click rates. By understanding the relationship between specific keywords and higher engagement, they can optimize email content for better results.
